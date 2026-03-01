@@ -16,13 +16,6 @@ Files and context:
     }
   },
   {
-    "path": "AYURVEDIC-EXPORTS---MEDESOLACE.html",
-    "context": {
-      "title": "Medesta Healthcare",
-      "first_heading": ""
-    }
-  },
-  {
     "path": "Association-Consulting.html",
     "context": {
       "title": "Medesta Healthcare",
@@ -58,13 +51,6 @@ Files and context:
     }
   },
   {
-    "path": "MEDICAL-DEVICES-EXPORTS---WYLO.html",
-    "context": {
-      "title": "Medesta Healthcare",
-      "first_heading": ""
-    }
-  },
-  {
     "path": "Media-Centre.html",
     "context": {
       "title": "Medesta Healthcare",
@@ -72,17 +58,17 @@ Files and context:
     }
   },
   {
-    "path": "NUTRACEUTICAL-EXPORTS---ZEST.html",
+    "path": "OUR-SERVICES.html",
     "context": {
       "title": "Medesta Healthcare",
       "first_heading": "ProcareCollagecopy"
     }
   },
   {
-    "path": "OUR-SERVICES.html",
+    "path": "ayurvedic-exports-medesolace.html",
     "context": {
       "title": "Medesta Healthcare",
-      "first_heading": "ProcareCollagecopy"
+      "first_heading": ""
     }
   },
   {
@@ -931,11 +917,11 @@ Files and context:
           "title": ""
         },
         {
-          "alt": "image description",
+          "alt": "Best pcd pharma company in india top 10 pharma company in india pharma distributor pharma distributo",
           "title": ""
         },
         {
-          "alt": "Best pcd pharma company in india top 10 pharma company in india pharma distributor pharma distributo",
+          "alt": "image description",
           "title": ""
         },
         {
@@ -2696,6 +2682,20 @@ Files and context:
     "context": {
       "title": "i-Solasta | Isolasta Exports",
       "first_heading": "To achieve our goals, we are committed to continuous personal interaction with our international suppliers and our clients"
+    }
+  },
+  {
+    "path": "medical-devices-exports-wylo.html",
+    "context": {
+      "title": "Medesta Healthcare",
+      "first_heading": ""
+    }
+  },
+  {
+    "path": "nutraceutical-exports-zest.html",
+    "context": {
+      "title": "Medesta Healthcare",
+      "first_heading": "ProcareCollagecopy"
     }
   },
   {
